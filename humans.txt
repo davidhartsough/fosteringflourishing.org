@@ -1,0 +1,8 @@
+# humanstxt.org/
+
+/* TEAM */
+Developer: David Hartsough
+Site: http://davidhartsough.com
+
+/* THANKS */
+David
