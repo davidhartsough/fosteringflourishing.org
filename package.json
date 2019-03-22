@@ -1,0 +1,58 @@
+{
+  "name": "fosteringflourishing.org",
+  "private": false,
+  "description": "The website for FosteringFlourishing.org",
+  "version": "0.1.0",
+  "author": "David Hartsough <hartsoughdavid@gmail.com>",
+  "dependencies": {
+    "gatsby": "^2.1.31",
+    "gatsby-image": "^2.0.33",
+    "gatsby-plugin-catch-links": "^2.0.13",
+    "gatsby-plugin-google-analytics": "^2.0.17",
+    "gatsby-plugin-manifest": "^2.0.24",
+    "gatsby-plugin-offline": "^2.0.25",
+    "gatsby-plugin-react-helmet": "^3.0.9",
+    "gatsby-plugin-sharp": "^2.0.28",
+    "gatsby-plugin-sitemap": "^2.0.9",
+    "gatsby-remark-autolink-headers": "^2.0.16",
+    "gatsby-remark-external-links": "0.0.4",
+    "gatsby-source-filesystem": "^2.0.24",
+    "gatsby-transformer-remark": "^2.3.2",
+    "gatsby-transformer-sharp": "^2.1.17",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-helmet": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-loader": "^2.1.2",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "gatsby-plugin-eslint": "^2.0.4",
+    "gh-pages": "^2.0.1",
+    "prettier": "^1.16.4"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run dev",
+    "serve": "gatsby serve",
+    "deploy": "gatsby build && gh-pages -d public",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidhartsough/fosteringflourishing.org"
+  },
+  "bugs": {
+    "url": "https://github.com/davidhartsough/fosteringflourishing.org/issues"
+  }
+}

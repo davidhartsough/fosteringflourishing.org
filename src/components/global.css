@@ -1,0 +1,134 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  color: hsla(0, 0%, 0%, 0.8);
+  background-color: #fafafa;
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue,
+    sans-serif;
+  min-width: 20rem;
+  line-height: 1.25;
+}
+main {
+  padding-bottom: 3rem;
+}
+header {
+  background-color: hsl(232, 4%, 94%);
+  box-shadow: 0 0 0.125rem 0 rgba(0, 0, 0, 0.4);
+}
+section,
+nav,
+.top-bar {
+  max-width: 60rem;
+  margin: 0 auto;
+}
+section,
+nav {
+  padding: 0 2rem;
+  margin-top: 1rem;
+}
+.top-bar {
+  display: flex;
+  padding: 0.5rem 2rem;
+}
+.logo,
+.logo img {
+  display: block;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.ff {
+  display: block;
+  font-family: serif;
+  color: #06091d;
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+  height: 2.5rem;
+  margin-left: 1rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
+}
+h1,
+h2 {
+  font-family: serif;
+  font-weight: 300;
+}
+h1 {
+  margin-top: 0;
+  font-size: 2rem;
+}
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+}
+p {
+  margin: 0.5em 0;
+}
+li p {
+  margin: 0;
+}
+a {
+  color: hsl(232, 72%, 56%);
+  text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+  text-decoration: underline;
+}
+ul,
+ol {
+  margin: 0.5rem 0;
+  padding-inline-start: 2rem;
+}
+ul ul,
+ul ol,
+ol ul,
+ol ol {
+  margin: 0;
+}
+table,
+th,
+td {
+  border: 1px solid hsl(232, 8%, 64%);
+  border-collapse: collapse;
+}
+thead {
+  background-color: hsl(232, 8%, 90%);
+}
+th,
+td {
+  padding: 0.2em 0.4em;
+}
+.notfound {
+  background-color: #eee;
+  color: #444;
+  font-family: monospace;
+  padding: 0.25rem;
+  font-size: 1.125rem;
+  border-radius: 0.25rem;
+  margin: 0 0.25rem;
+}
+@media screen and (max-width: 480px) {
+  section,
+  nav {
+    padding: 0 1rem;
+  }
+  .top-bar {
+    padding: 0.5rem 1rem;
+  }
+}

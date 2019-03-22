@@ -2,7 +2,7 @@
 
 /* TEAM */
 Developer: David Hartsough
-Site: http://davidhartsough.com
+Site: https://davidhartsough.com
 
 /* THANKS */
 David
