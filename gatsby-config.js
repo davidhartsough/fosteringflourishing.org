@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Fostering Flourishing",
-    baseKeywords: "BASE, KEYWORDS, ",
+    baseKeywords: "fostering, flourishing, ",
     author: "David Hartsough",
     url: "https://fosteringflourishing.org",
     image: "https://fosteringflourishing.org/icons/icon-512x512.png",
