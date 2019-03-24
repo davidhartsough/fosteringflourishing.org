@@ -32,6 +32,8 @@ Ideally every human should:
 - [Have meaning](/needs/psychological/meaning/)
   - Build and maintain a healthy sense of meaning, purpose, and identity
 - [Have emotional well-being](/needs/psychological/emotion/)
+  - Have positive emotions and high positive affectivity
+  - Have emotional regulation and stability
 - [Have healthy self-esteem](/needs/psychological/self-esteem/)
   - Build and maintain healthy self-esteem, self-respect, self-acceptance, and self-confidence
 - [Have security](/needs/psychological/security/)

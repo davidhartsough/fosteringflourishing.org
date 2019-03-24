@@ -38,6 +38,8 @@ Emotional needs vary from person to person depending on personal differences inc
 - Medical mental conditions
 - Medications
 
+The personality trait of extraversion is often associated with high levels of positive affectivity and positive emotion, whereas introversion may have the reverse effect. There are also several brain disorders that cause decreased positive affect and positive emotion, such as depression, anxiety, and bipolar. Similarly, medications that treat mental conditions such as those brain disorders often are intended to significantly alter a person's affectivity and emotions. These are among some of the personal factors that are important to be aware of and understand the implications of.
+
 ## Ideals
 
 Ideally every human should
@@ -52,11 +54,6 @@ Ideally every human should
   - Develop positive affect
   - Regulate and stabilize emotions
 
-### Consider your needs
-
-//
-Consider how much positive emotion you need and how often you need it. Some personality types, such as extroversion, might be more inclined to a naturally high positive affect, whereas
-
 ### Fulfill your needs
 
 Be intentional about building the emotional well-being you need by cultivating positive emotion, developing positive affect, and regulating your emotional stability.
@@ -69,4 +66,4 @@ Try to measure your emotional needs weekly or at least monthly.
 
 ## Resources
 
-- //
+- [Wikipedia: Positive affectivity](https://en.wikipedia.org/wiki/Positive_affectivity)

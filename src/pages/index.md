@@ -4,6 +4,28 @@ keywords: "flourishing"
 description: "flourishing"
 ---
 
+Flourishing is the ideal state of well-being, well-living, and thriving. It is synonymous with:
+
+- Growth
+  - Development
+  - Evolution
+  - Progress
+- Fulfillment
+- Actualization
+
+## Goal
+
+If flourishing is primary goal of life, then humanity ought to define it, measure it, and foster it. And if good decision making is the key to living well, then humanity ought to define, measure, and foster that as well. This can be achieved through the following steps:
+
+1. Outline and operationalize human [needs](/needs/) and [fundamentals](/fundamentals/) of flourishing
+   1. Create a framework for measuring the fulfillment of needs and flourishing
+   1. Outline [ideals](/ideals/) for humans
+1. Define a process for decision making and goal setting based on the priorities of flourishing
+   1. Create a framework for priorities, decisions, and goals
+   1. Outline ideals for humanity overall
+
+The overall goal of this project is to help humanity define and improve its decision-making and goal-setting process by defining and outlining its priorities.
+
 ## [Needs](/needs/)
 
 Needs outline that which is necessary for a human to:
@@ -38,7 +60,7 @@ Psychological needs outline that which is necessary for optimal _psychological_ 
 
 ## [Fundamentals](/fundamentals/)
 
-Fundamentals of flourishing outline that which is significantly beneficial to the _flourishing_ of a person (in terms of growth, development, progress, evolution, fulfillment, and actualization).
+Fundamentals of flourishing outline that which is significantly beneficial to the _flourishing_ of a person.
 
 - [Engagement](/fundamentals/engagement/)
 - [Accomplishment](/fundamentals/accomplishment/)

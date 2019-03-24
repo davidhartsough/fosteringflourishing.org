@@ -16,7 +16,23 @@ body {
   line-height: 1.25;
 }
 main {
+  padding-top: 3rem;
   padding-bottom: 3rem;
+}
+.banner {
+  position: fixed;
+  top: 0;
+  text-align: center;
+  background-color: hsl(232, 72%, 12%);
+  padding: 0.5rem 1rem;
+  color: hsl(232, 48%, 90%);
+  font-size: 0.875rem;
+  width: 100%;
+  line-height: 1.15;
+}
+.banner a {
+  text-decoration: underline;
+  color: #fff;
 }
 header {
   background-color: hsl(232, 4%, 94%);
@@ -37,19 +53,19 @@ nav {
   display: flex;
   padding: 0.5rem 2rem;
 }
-.logo,
-.logo img {
+.logo-link,
+.logo {
   display: block;
-  width: 2.5rem;
-  height: 2.5rem;
+  width: 2.25rem;
+  height: 2.25rem;
 }
-.ff {
+.title {
   display: block;
   font-family: serif;
   color: #06091d;
   font-size: 1.5rem;
-  line-height: 2.5rem;
-  height: 2.5rem;
+  line-height: 2.25rem;
+  height: 2.25rem;
   margin-left: 1rem;
 }
 h1,
@@ -130,5 +146,13 @@ td {
   }
   .top-bar {
     padding: 0.5rem 1rem;
+  }
+}
+@media screen and (min-width: 529px) {
+  main {
+    padding-top: 2rem;
+  }
+  .banner-break {
+    display: none;
   }
 }
