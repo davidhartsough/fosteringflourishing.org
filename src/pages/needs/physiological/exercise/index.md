@@ -110,4 +110,4 @@ To further understand these principles in action, [see a real life example of ca
   - [Exercise intensity](https://en.wikipedia.org/wiki/Exercise_intensity)
   - [Metabolic equivalent (MET)](https://en.wikipedia.org/wiki/Metabolic_equivalent)
 
-(This section is incomplete; it requires more resources. If you'd like to help out, [please volunteer](#).)
+(This section is incomplete and requires more resources. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Exercise&entry.136454288=Resources).)
