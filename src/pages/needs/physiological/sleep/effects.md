@@ -38,3 +38,7 @@ This table breaks down the effects of neglect and fulfillment of sleeping well.
 | Reaction to insulin               | Impaired   | Improved     |
 | Healing and recovery              | Impaired   | Improved     |
 | Repairing heart and blood vessels | Impaired   | Improved     |
+
+**Note**
+
+This table is incomplete. Citations and references are still required for each data point. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Sleep&entry.136454288=Effects).

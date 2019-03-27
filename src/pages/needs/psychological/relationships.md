@@ -11,7 +11,6 @@ description: "relationships"
 - To have community
 - To have close connections
 - To have social support
-- To be socially integrated
 - To belong
 - To relate
 - To connect
@@ -22,7 +21,9 @@ description: "relationships"
 
 ## Effects
 
-// we'll come back to that...
+Relationships have notable effects on one's body and brain.
+
+(This section is incomplete and requires an Effects table for a full breakdown of the effects of neglect and fulfillment of this needs. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Relationships&entry.136454288=Effects).)
 
 ## Measurement
 
@@ -43,7 +44,6 @@ Because the number of a person's close, dependable, positive relationships rarel
 - I am well-connected.
 - I am not lonely.
 - I feel a sense of belonging.
-- I feel socially integrated.
 - I have a good amount of close, positive relationships.
 - I have all the positive relationships I need.
 - My closest relationships are positive and dependable.
@@ -85,7 +85,7 @@ Ideally every human should
 
 - Have at least 2–3 close, dependable, positive relationships with other people
 - Feel well-connected and satisfied with personal relationships
-- Have a sense of community, belonging, and social integration
+- Have a sense of community, belonging, and social connection
 - Understand personal relationship needs
 - Track relationship needs weekly and/or monthly
 - Fulfill personal relationship needs
@@ -106,8 +106,15 @@ Be intentional about setting aside the time you need to stay well-connected to t
 
 Try to measure your relationship needs weekly or at least monthly.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Resources
 
-- //
+- [Wikipedia: Outline of relationships](https://en.wikipedia.org/wiki/Outline_of_relationships)
+  - [Social connection](https://en.wikipedia.org/wiki/Social_connection)
+  - [Interpersonal relationship](https://en.wikipedia.org/wiki/Interpersonal_relationship)
+  - [Belongingness](https://en.wikipedia.org/wiki/Belongingness)
+  - [Sense of community](https://en.wikipedia.org/wiki/Sense_of_community)
+  - [Social support](https://en.wikipedia.org/wiki/Social_support)
+
+(This section is incomplete and requires more resources. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Relationships&entry.136454288=Resources).)

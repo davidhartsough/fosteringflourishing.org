@@ -8,6 +8,7 @@ description: "leisure"
 
 - To have leisure
 - To have fun
+  - To play
 - To have peace
 - To relax
 - To have introspection
@@ -15,7 +16,9 @@ description: "leisure"
 
 ## Effects
 
-// we'll come back to that...
+Leisure has notable effects on one's body and brain.
+
+(This section is incomplete and requires an Effects table for a full breakdown of the effects of neglect and fulfillment of this needs. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Leisure&entry.136454288=Effects).)
 
 ## Measurement
 
@@ -66,8 +69,15 @@ Be intentional about setting aside the time you need to have relax and enjoy you
 
 Try to measure your leisure needs weekly or at least monthly.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Resources
 
-- //
+- [Wikipedia: Leisure](https://en.wikipedia.org/wiki/Leisure)
+  - [Leisure studies](https://en.wikipedia.org/wiki/Leisure_studies)
+  - [Leisure satisfaction](https://en.wikipedia.org/wiki/Leisure_satisfaction)
+  - [Relaxation (psychology)](https://en.wikipedia.org/wiki/Relaxation_%28psychology%29)
+  - [Fun](https://en.wikipedia.org/wiki/Fun)
+  - [Play](https://en.wikipedia.org/wiki/Play_%28activity%29)
+
+(This section is incomplete and requires more resources. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Leisure&entry.136454288=Resources).)

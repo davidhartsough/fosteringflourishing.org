@@ -1,5 +1,5 @@
 ---
-title: "Human Flourishing"
+title: "Human flourishing"
 keywords: "flourishing"
 description: "flourishing"
 ---

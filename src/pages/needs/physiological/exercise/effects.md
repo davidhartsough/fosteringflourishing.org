@@ -55,3 +55,7 @@ This table breaks down the effects of neglect and fulfillment of exercising well
 | Blood circulation to the brain               | Decreased      | Increased    |
 | Self-esteem                                  | No effect      | Improved     |
 | Cognitive degeneration                       | Increased risk | Preventative |
+
+**Note**
+
+This table is incomplete. Citations and references are still required for each data point. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Exercise&entry.136454288=Effects).

@@ -97,7 +97,7 @@ Mindfully balance your weekly exercise needs. If you have been neglecting physic
 
 Try to measure your exercise daily or at least weekly to track your needs.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Example
 
@@ -109,4 +109,5 @@ To further understand these principles in action, [see a real life example of ca
   - [Physical fitness](https://en.wikipedia.org/wiki/Physical_fitness)
   - [Exercise intensity](https://en.wikipedia.org/wiki/Exercise_intensity)
   - [Metabolic equivalent (MET)](https://en.wikipedia.org/wiki/Metabolic_equivalent)
-- // [Add more](https://docs.google.com/document/d/1asuO13V5M42h30uFw4RKnQVS9HsLjZm_uB-3Ti5HUI0/edit)
+
+(This section is incomplete; it requires more resources. If you'd like to help out, [please volunteer](#).)

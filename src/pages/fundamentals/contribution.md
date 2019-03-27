@@ -36,7 +36,7 @@ Ideally every human should
 
 Try to measure your contribution monthly.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Resources
 

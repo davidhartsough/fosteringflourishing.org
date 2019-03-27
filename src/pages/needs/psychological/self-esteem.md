@@ -13,7 +13,9 @@ description: "self-esteem"
 
 ## Effects
 
-// we'll come back to that...
+Self-esteem has notable effects on one's brain.
+
+(This section is incomplete and requires an Effects table for a full breakdown of the effects of neglect and fulfillment of this needs. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Self-esteem&entry.136454288=Effects).)
 
 ## Measurement
 
@@ -56,8 +58,17 @@ Be intentional about setting aside the time you need to build your self-esteem, 
 
 Try to measure your self-esteem needs weekly or at least monthly.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Resources
 
-- //
+- [Wikipedia: Self-esteem](https://en.wikipedia.org/wiki/Self-esteem)
+  - [Self-acceptance](https://en.wikipedia.org/wiki/Self-acceptance)
+  - [Self-confidence](https://en.wikipedia.org/wiki/Self-confidence)
+  - [Self-efficacy](https://en.wikipedia.org/wiki/Self-efficacy)
+  - [Self-concept](https://en.wikipedia.org/wiki/Self-concept)
+  - [Self-compassion](https://en.wikipedia.org/wiki/Self-compassion)
+  - [Self-image](https://en.wikipedia.org/wiki/Self-image)
+  - [Core self-evaluations](https://en.wikipedia.org/wiki/Core_self-evaluations)
+
+(This section is incomplete and requires more resources. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Self-esteem&entry.136454288=Resources).)

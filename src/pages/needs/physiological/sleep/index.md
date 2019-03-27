@@ -101,7 +101,7 @@ Mindfully balance your daily sleep needs. If you have been sleeping poorly or if
 
 Try to measure your sleep cycles daily or at least weekly to track your needs.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Example
 

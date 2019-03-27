@@ -34,7 +34,7 @@ Ideally every human should
 
 Try to measure your grit monthly.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Resources
 

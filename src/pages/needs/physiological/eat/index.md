@@ -148,7 +148,7 @@ Mindfully balance your daily nutritional needs. If you have a deficit of any nut
 
 Try to measure your nutritional absorption daily or at least weekly to track your needs.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Example
 

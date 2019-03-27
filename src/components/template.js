@@ -14,6 +14,20 @@ export default ({ data: { site, md }, location: { pathname: path } }) => (
         <div dangerouslySetInnerHTML={{ __html: md.toc }} />
       )}
       <div dangerouslySetInnerHTML={{ __html: md.html }} />
+      <footer>
+        Please help improve this page by{" "}
+        <a
+          target="_blank"
+          rel="nofollow noopener noreferrer"
+          href={`https://docs.google.com/forms/d/e/1FAIpQLSf4EYRjuoIUobgMH6M2ktRRkf6rXvjvCiZFdJkTKSv_fLLHJA/viewform?usp=pp_url&entry.1605531621=${md.fm.title.replace(
+            / /g,
+            "+",
+          )}`}
+        >
+          suggesting edits
+        </a>
+        .
+      </footer>
     </section>
   </Layout>
 )

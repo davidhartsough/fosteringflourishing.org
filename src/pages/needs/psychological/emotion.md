@@ -15,7 +15,9 @@ description: "emotion"
 
 ## Effects
 
-// we'll come back to that...
+Emotional well-being has notable effects on one's brain.
+
+(This section is incomplete and requires an Effects table for a full breakdown of the effects of neglect and fulfillment of this needs. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Positive+emotion&entry.136454288=Effects).)
 
 ## Measurement
 
@@ -62,8 +64,10 @@ Be intentional about building the emotional well-being you need by cultivating p
 
 Try to measure your emotional needs weekly or at least monthly.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Resources
 
 - [Wikipedia: Positive affectivity](https://en.wikipedia.org/wiki/Positive_affectivity)
+
+(This section is incomplete and requires more resources. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Positive+emotion&entry.136454288=Resources).)

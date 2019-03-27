@@ -12,7 +12,9 @@ description: "meaning"
 
 ## Effects
 
-// we'll come back to that...
+A sense of meaning has notable effects on one's brain.
+
+(This section is incomplete and requires an Effects table for a full breakdown of the effects of neglect and fulfillment of this needs. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Meaning&entry.136454288=Effects).)
 
 ## Measurement
 
@@ -64,8 +66,20 @@ Be intentional about setting aside the time you need to forge meaning in your li
 
 Try to measure your meaning needs weekly or at least monthly.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Resources
 
-- //
+- [Wikipedia: Meaningful life](https://en.wikipedia.org/wiki/Meaningful_life)
+  - [Meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life)
+  - [Meaning-making](https://en.wikipedia.org/wiki/Meaning-making)
+  - [Ikigai](https://en.wikipedia.org/wiki/Ikigai)
+  - [Identity](https://en.wikipedia.org/wiki/Identity_%28social_science%29)
+    - [Outline of self](https://en.wikipedia.org/wiki/Outline_of_self)
+    - [Identity formation](https://en.wikipedia.org/wiki/Identity_formation)
+    - [Self-concept](https://en.wikipedia.org/wiki/Self-concept)
+    - [Personal identity](https://en.wikipedia.org/wiki/Personal_identity)
+    - [Psychology of self](https://en.wikipedia.org/wiki/Psychology_of_self)
+  - [Introspection](https://en.wikipedia.org/wiki/Introspection)
+
+(This section is incomplete and requires more resources. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Meaning&entry.136454288=Resources).)

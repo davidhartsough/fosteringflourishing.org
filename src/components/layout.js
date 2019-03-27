@@ -7,7 +7,14 @@ export default ({ children }) => (
   <main>
     <div className="banner">
       Please help improve this project by <br className="banner-break" />
-      <a href="#/">giving feedback</a> and <a href="#/">suggesting edits</a>.
+      <a
+        target="_blank"
+        rel="nofollow noopener noreferrer"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSc8Tk9yx-WvhZKBFLYFst1QOIe1DASWZY3PGjiWp0Cu2GDclQ/viewform?usp=sf_link"
+      >
+        giving feedback
+      </a>{" "}
+      and <Link to="/contributing/">contributing</Link>.
     </div>
     <header>
       <div className="top-bar">

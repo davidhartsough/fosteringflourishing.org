@@ -51,3 +51,7 @@ This table breaks down the effects of neglect and fulfillment of eating well.
 | Risk of osteoporosis                        | Increased | Decreased    |
 | High cholesterol levels                     | Raised    | Lowered      |
 | Cognitive and spatial memory performance    | Decreased | Increased    |
+
+**Note**
+
+This table is incomplete. Citations and references are still required for each data point. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Eat&entry.136454288=Effects).

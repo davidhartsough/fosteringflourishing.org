@@ -32,7 +32,7 @@ Ideally every human should
 
 Try to measure your accomplishment monthly.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Resources
 

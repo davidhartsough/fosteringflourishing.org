@@ -19,7 +19,9 @@ description: "security"
 
 ## Effects
 
-// we'll come back to that...
+Security and stability have notable effects on one's body and brain.
+
+(This section is incomplete and requires an Effects table for a full breakdown of the effects of neglect and fulfillment of this needs. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Security&entry.136454288=Effects).)
 
 ## Measurement
 
@@ -57,8 +59,10 @@ Be intentional about putting yourself in the environments and settings you need 
 
 Try to measure your security needs monthly.
 
-[// Use the Fostering Flourishing tool (not made yet)](/)
+[// Use the Fostering Flourishing tool (not made yet)](#/)
 
 ## Resources
 
 - //
+
+(This section is incomplete and requires more resources. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Security&entry.136454288=Resources).)
