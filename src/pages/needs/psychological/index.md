@@ -17,3 +17,4 @@ That which is necessary for optimal psychological functioning of the brain.
 Potential addition:
 
 - Intimacy (affection, attention)
+- Autonomy (agency, self-sufficiency)

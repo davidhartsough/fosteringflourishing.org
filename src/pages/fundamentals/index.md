@@ -4,7 +4,7 @@ keywords: "fundamentals of flourishing"
 description: "fundamentals of flourishing"
 ---
 
-That which is significantly beneficial to the _flourishing_ of a person (in terms of growth, development, progress, evolution, fulfillment, and actualization).
+That which is significantly beneficial to the flourishing of a person (in terms of growth and actualization).
 
 - [Engagement](/fundamentals/engagement/)
 - [Accomplishment](/fundamentals/accomplishment/)
