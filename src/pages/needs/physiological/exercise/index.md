@@ -1,7 +1,7 @@
 ---
 title: "Exercise"
-keywords: "exercise"
-description: "exercise"
+keywords: "need, define, measure, fulfill, exercise, physical, activity, fitness"
+description: "Exercise, physical activity, and fitness are physiological needs that should be defined, measured, and fostered."
 ---
 
 ## Definition

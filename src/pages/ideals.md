@@ -1,7 +1,7 @@
 ---
 title: "Ideals"
-keywords: "ideals"
-description: "ideals"
+keywords: "ideals, human, humanity, fulfillment, needs, goals, rights, person"
+description: "Ideals are broad goals and visions for humanity that outline what human flourishing looks like and define the rights of every person."
 ---
 
 Ideally every human should:

@@ -1,7 +1,7 @@
 ---
 title: "Security"
-keywords: "security"
-description: "security"
+keywords: "need, define, measure, fulfill, security, safety, stability, stress"
+description: "Security, safety, and stability are psychological needs that should be defined, measured, and fostered."
 ---
 
 ## Definition
@@ -63,6 +63,6 @@ Try to measure your security needs monthly.
 
 ## Resources
 
-- //
+- [Wikipedia: Security](https://en.wikipedia.org/wiki/Security)
 
 (This section is incomplete and requires more resources. If you'd like to help out, [please volunteer](https://docs.google.com/forms/d/e/1FAIpQLSefwCNdvxgpY6hQZ-FEnwmCHdZFOCD5WXwIMNeKmSDVSh9A2g/viewform?usp=pp_url&entry.1605531621=Security&entry.136454288=Resources).)

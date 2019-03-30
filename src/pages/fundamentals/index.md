@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals of flourishing"
-keywords: "fundamentals of flourishing"
-description: "fundamentals of flourishing"
+keywords: "fundamentals, growth, actualization, engagement, accomplishment, contribution, autonomy, grit"
+description: "Fundamentals of flourishing outline which is significantly beneficial to the flourishing of a person (in terms of growth and actualization)."
 ---
 
 That which is significantly beneficial to the flourishing of a person (in terms of growth and actualization).

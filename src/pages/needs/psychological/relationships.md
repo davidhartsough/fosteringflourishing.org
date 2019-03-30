@@ -1,7 +1,7 @@
 ---
 title: "Relationships"
-keywords: "relationships"
-description: "relationships"
+keywords: "need, define, measure, fulfill, relationships"
+description: "Relationships, connection, and community are psychological needs that should be defined, measured, and fostered."
 ---
 
 ## Definition

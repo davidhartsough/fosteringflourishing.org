@@ -1,7 +1,7 @@
 ---
 title: "Example"
-keywords: "example"
-description: "example"
+keywords: "need, example, calculate, measure, fulfill, track, exercise, physical activity"
+description: "This example demonstrates calculating, tracking, and fulfilling the need to exercise."
 ---
 
 This example demonstrates calculating, tracking, and fulfilling [the need to exercise](/needs/physiological/exercise/).

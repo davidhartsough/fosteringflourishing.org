@@ -1,7 +1,7 @@
 ---
 title: "Meaning"
-keywords: "meaning"
-description: "meaning"
+keywords: "need, define, measure, fulfill, meaning, purpose, identity, life"
+description: "Meaning, purpose, and identity are psychological needs that should be defined, measured, and fostered."
 ---
 
 ## Definition

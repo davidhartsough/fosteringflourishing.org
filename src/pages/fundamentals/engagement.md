@@ -1,7 +1,7 @@
 ---
 title: "Engagement"
-keywords: "engagement"
-description: "Engagement"
+keywords: "fundamental, define, measure, track, engagement, flow, concentration, immersion"
+description: "Engagement and flow are a fundamental aspect of flourishing that should be defined, measured, tracked, and fostered."
 ---
 
 **Note**

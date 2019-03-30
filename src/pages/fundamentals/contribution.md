@@ -1,7 +1,7 @@
 ---
 title: "Contribution"
-keywords: "contribution"
-description: "Contribution"
+keywords: "fundamental, define, measure, track, contribution"
+description: "Contribution is a fundamental aspect of flourishing that should be defined, measured, tracked, and fostered."
 ---
 
 **Note**

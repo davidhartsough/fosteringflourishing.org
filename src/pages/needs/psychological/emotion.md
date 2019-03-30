@@ -1,7 +1,7 @@
 ---
 title: "Positive emotion"
-keywords: "emotion"
-description: "emotion"
+keywords: "need, define, measure, fulfill, emotion, positive, affectivity, optimism, regulation, stability"
+description: "Positive emotion, positive affectivity, and optimism are psychological needs that should be defined, measured, and fostered."
 ---
 
 ## Definition

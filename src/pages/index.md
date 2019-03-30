@@ -1,7 +1,7 @@
 ---
 title: "Human flourishing"
-keywords: "flourishing"
-description: "flourishing"
+keywords: "human, well-being, wellbeing, living, thriving, fulfillment, actualization, needs"
+description: "Flourishing is the ideal state of well-being, well-living, and thriving; it is growth, fulfillment of needs, and actualization."
 ---
 
 Flourishing is the ideal state of well-being, well-living, and thriving. It is synonymous with:

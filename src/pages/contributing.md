@@ -1,7 +1,7 @@
 ---
 title: "Contributing"
-keywords: "contributing"
-description: "contributing"
+keywords: "contributing, volunteer, contributor, opportunities, help, research, writing, development"
+description: "This page outlines opportunities for you to help improve the website and contribute to the Fostering Flourishing project."
 ---
 
 Thank you for considering contributing! This project is completely driven by individual contributors, like you. Contributors like you are what make this project possible.

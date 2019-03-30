@@ -1,7 +1,7 @@
 ---
 title: "Sleep"
-keywords: "sleep"
-description: "Sleep"
+keywords: "need, define, measure, fulfill, sleep, rest, effects, track"
+description: "Sleep is a physiological need that should be defined, measured, and fostered."
 ---
 
 ## Definition

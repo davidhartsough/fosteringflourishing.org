@@ -1,7 +1,7 @@
 ---
 title: "Effects"
-keywords: "effects"
-description: "effects"
+keywords: "need, effects, neglect, fulfill, exercise, physical, activity, fitness"
+description: "This table breaks down the effects of neglect and fulfillment of exercising well."
 ---
 
 This table breaks down the effects of neglect and fulfillment of exercising well.

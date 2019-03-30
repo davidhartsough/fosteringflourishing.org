@@ -1,7 +1,7 @@
 ---
 title: "Grit"
-keywords: "grit"
-description: "Grit"
+keywords: "fundamental, define, measure, track, grit, resolve"
+description: "Grit, resolve, and perseverance are a fundamental aspect of flourishing that should be defined, measured, tracked, and fostered."
 ---
 
 **Note**

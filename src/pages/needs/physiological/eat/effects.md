@@ -1,7 +1,7 @@
 ---
 title: "Effects"
-keywords: "effects"
-description: "effects"
+keywords: "need, effects, neglect, fulfill, eat, nutrition, nutrients"
+description: "This table breaks down the effects of neglect and fulfillment of eating well."
 ---
 
 This table breaks down the effects of neglect and fulfillment of eating well.

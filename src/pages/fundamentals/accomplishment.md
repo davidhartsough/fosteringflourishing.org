@@ -1,7 +1,7 @@
 ---
 title: "Accomplishment"
-keywords: "accomplishment"
-description: "Accomplishment"
+keywords: "fundamental, define, measure, track, accomplishment, achievement, competency, mastery"
+description: "Accomplishment, achievement, and mastery are a fundamental aspect of flourishing that should be defined, measured, tracked, and fostered."
 ---
 
 **Note**

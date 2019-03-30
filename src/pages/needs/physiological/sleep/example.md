@@ -1,7 +1,7 @@
 ---
 title: "Example"
-keywords: "example"
-description: "example"
+keywords: "need, example, calculate, measure, fulfill, track, sleep"
+description: "This example demonstrates calculating, tracking, and fulfilling the need to sleep."
 ---
 
 This example demonstrates calculating, tracking, and fulfilling [the need to sleep](/needs/physiological/sleep/).

@@ -1,7 +1,7 @@
 ---
 title: "Leisure"
-keywords: "leisure"
-description: "leisure"
+keywords: "need, define, measure, fulfill, leisure, relaxation, peace, fun"
+description: "Leisure, relaxation, and relief are psychological needs that should be defined, measured, and fostered."
 ---
 
 ## Definition
@@ -11,8 +11,7 @@ description: "leisure"
   - To play
 - To have peace
 - To relax
-- To have introspection
-  - To introspect
+- To have relief
 
 ## Effects
 

@@ -1,7 +1,7 @@
 ---
 title: "Autonomy"
-keywords: "autonomy"
-description: "Autonomy"
+keywords: "fundamental, define, measure, track, autonomy, self-sufficiency, agency, control"
+description: "Autonomy, self-sufficiency, and agency are a fundamental aspect of flourishing that should be defined, measured, tracked, and fostered."
 ---
 
 **Note**

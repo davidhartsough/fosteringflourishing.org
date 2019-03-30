@@ -1,7 +1,7 @@
 ---
 title: "Resilience"
-keywords: "resilience"
-description: "resilience"
+keywords: "need, define, measure, fulfill, resilience"
+description: "Resilience, coping, and recovery are psychological needs that should be defined, measured, and fostered."
 ---
 
 ## Definition

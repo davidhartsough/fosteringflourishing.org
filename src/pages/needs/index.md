@@ -1,7 +1,7 @@
 ---
 title: "Needs"
-keywords: "needs"
-description: "needs"
+keywords: "needs, human, healthy, physiological, psychological, neglect, fulfillment, effects"
+description: "Needs outline that which is necessary for a human to be physiologically and psychologically healthy."
 ---
 
 Needs outline that which is necessary for a human to:

@@ -1,7 +1,7 @@
 ---
 title: "Self-esteem"
-keywords: "self-esteem"
-description: "self-esteem"
+keywords: "need, define, measure, fulfill, self-esteem, self-respect, self-acceptance, self-confidence"
+description: "Self-esteem, self-acceptance, and self-respect are psychological needs that should be defined, measured, and fostered."
 ---
 
 ## Definition

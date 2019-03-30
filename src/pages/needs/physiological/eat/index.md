@@ -1,7 +1,7 @@
 ---
 title: "Eat"
-keywords: "eat"
-description: "eat"
+keywords: "need, define, measure, fulfill, eat, nutrition, nourishment, nutrients"
+description: "Eating well, nutrition, and nourishment are physiological needs that should be defined, measured, and fostered."
 ---
 
 ## Definition
