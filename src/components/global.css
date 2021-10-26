@@ -154,7 +154,7 @@ td {
     padding: 0.5rem 1rem;
   }
 }
-@media screen and (min-width: 529px) {
+@media screen and (min-width: 580px) {
   main {
     padding-top: 2rem;
   }
